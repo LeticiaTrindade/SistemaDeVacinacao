@@ -1,5 +1,7 @@
 # SistemaDeVacinacao
 
+###### O professor forneceu parte do projeto para podermos nos basear e forneceu um documento por escrito explicando o que ele queria para o projeto. Os códigos que o professor produziu tem sua assinatura.
+
 Neste projeto podemos abortar conceitos como: 
 * Camadas
   - Organizando o projeto como camadas de:
